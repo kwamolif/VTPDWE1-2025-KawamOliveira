@@ -1,0 +1,17 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #fff9e1;
+}
+
+header,
+main {
+    color: #65825e;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
