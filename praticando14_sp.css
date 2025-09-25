@@ -1,0 +1,33 @@
+header,
+main {
+    color: red;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+body {
+    font-family: "Vibur", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #f0e7ca;
+}
+
+.fontepreta {
+    color: black;
+}
+
+.bebasneue {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.quicksand {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
