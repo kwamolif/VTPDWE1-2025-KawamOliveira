@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa; /* Fundo cinza claro conforme as imagens */
+}
+
+.card {
+    border-radius: 10px; /* Bordas arredondadas no container principal */
+}
+
+/* Ajuste para o botão Apagar ficar vermelho */
+.btn-apagar {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.btn-apagar:hover {
+    background-color: #c82333;
+    color: white;
+}
